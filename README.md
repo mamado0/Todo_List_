@@ -1,3 +1,5 @@
+ Todo App UI using the provider as a state management
+
 # todo_app
 
 A new Flutter project.
